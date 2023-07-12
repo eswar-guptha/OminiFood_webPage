@@ -10,4 +10,4 @@
 
 ### and this page is responsive it works all different divices
 
-### Here is Demo : - ** [here click](https://eswarguptha-omnifood-webpage.netlify.app) **
+### Here is Demo : - [here click](https://eswarguptha-omnifood-webpage.netlify.app)
